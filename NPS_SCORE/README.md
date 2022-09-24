@@ -1,4 +1,4 @@
-# Calculation Net Promoter Score by creating clean functions
+# Calculation of Net Promoter Score by creating clean functions
 
 
 ### Highlights
