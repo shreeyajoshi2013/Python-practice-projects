@@ -2,32 +2,32 @@
 
 
 Case:   
-Who we are?  - 
-	A digital marketing agency
-Who is the client/customer?
-    A massive online retailer of furniture
-What does client want to do? 
-    Create large campaigns for all of their website
-What are we doing? 
- 	Creating a prototype set of keywords for search campaigns for their sofas section. 
-    Generating keywords for the following products:
-    •	sofas
-    •	convertible sofas
-    •	love seats
-    •	recliners
-    •	sofa beds
+Who we are?  <br>
+	A digital marketing agency <br>
+Who is the client/customer? <br>
+    A massive online retailer of furniture <br>
+What does client want to do?  <br>
+    Create large campaigns for all of their website <br>
+What are we doing?  <br>
+ 	Creating a prototype set of keywords for search campaigns for their sofas section.  <br>
+    Generating keywords for the following products: <br>
+    •	sofas <br>
+    •	convertible sofas <br>
+    •	love seats <br> 
+    •	recliners <br> 
+    •	sofa beds <br> 
 
 Task specifications:
-    •	The client is a low-cost retailer, offering many promotions and discounts. 
-    •	We are targeting price-sensitive customers, so we focus on such keywords and move away from luxury keywords and topics
-    •	We are tight on budget, so we focus on a tightly targeted set of keywords and make sure they are all set to exact and phrase match.
-Implementation:
-    •	We generate a list of words, that together with the products given above would make for good keywords. 
-    •	For example:
-        o	Products: sofas, recliners
-        o	Words: buy, prices
-        The resulting keywords: 
-            'buy sofas', 'sofas buy', 'buy recliners', 'recliners buy', 'prices sofas', 'sofas prices', 'prices recliners', 'recliners prices'
+    •	The client is a low-cost retailer, offering many promotions and discounts.  <br> 
+    •	We are targeting price-sensitive customers, so we focus on such keywords and move away from luxury keywords and topics <br> 
+    •	We are tight on budget, so we focus on a tightly targeted set of keywords and make sure they are all set to exact and phrase match. <br> 
+Implementation: <br> 
+    •	We generate a list of words, that together with the products given above would make for good keywords.  <br> 
+    •	For example: <br> 
+        o	Products: sofas, recliners <br> 
+        o	Words: buy, prices <br> 
+        The resulting keywords:  <br> 
+            'buy sofas', 'sofas buy', 'buy recliners', 'recliners buy', 'prices sofas', 'sofas prices', 'prices recliners', 'recliners prices' <br> 
 
 
 ### Highlights
