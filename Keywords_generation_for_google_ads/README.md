@@ -32,14 +32,14 @@ Implementation: <br>
 
 ### Highlights
 
-* Understanding the requirements and systematically showing it in easy-to-understand short format
+* Understanding the requirements and systematically showing it in easy-to-understand and short format
 * aggregation
 * .concat()
 
 
 ### What is being done?
 
-1) Creating a list with hadcoded values. <br>
+1) Creating a list with hardcoded values. <br>
 2) Generating meaningful search keywords by using nested for loops. <br>
 3) Converting lists into dataframes and adding necessary extra columns<br>
 4) Converting dataframe to csv<br>
