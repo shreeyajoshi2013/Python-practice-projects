@@ -1,2 +1,5 @@
 # Python-practice-projects
-Python projects to keep learning and exploring
+
+Small simple python projects to keep learning and exploring.
+
+Each folder is a separate project.
