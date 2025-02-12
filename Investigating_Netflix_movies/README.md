@@ -1,4 +1,4 @@
-# Generating keywords for Google Ads
+# Investigating Netflix movies
 
 Purpose: Perform exploratory data analysis on the netflix_data.csv data to understand more about movies from the 1990s decade.
 
