@@ -1,8 +1,8 @@
 # Investigating Netflix movies
 
-Purpose : Perform exploratory data analysis on the netflix_data.csv data to understand more about movies from the 1990s decade.
+Purpose : Perform exploratory data analysis on the netflix_data.csv data to understand about movies from the 1990s decade.
 
-Real life application : Help a production company that specializes in nostalgic styles to better understand the movie decade of 1990s. 
+Real life application : Help a media production company that specializes in nostalgic styles to better understand the movie decade of 1990s. 
 
 Domain - Entertainment and media industry.
 
